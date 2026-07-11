@@ -1,4 +1,4 @@
-# Laccino Digital
+# Laccino Digital Labs
 
 **Building digital products, intelligent systems, and scalable online experiences.**
 
@@ -56,13 +56,13 @@ We are open to development partnerships, white-label projects, consulting, produ
 
 ## Connect With Laccino Digital
 
-- **Website:** www.laccino.com
-- **Email:** hello@laccino.com
+- **Website:** www.laccinodigital.com
+- **Email:** hello@laccinodigital.com
 - **LinkedIn:** Laccino Digital
 - **Social Media:** @laccinodigital
 
 ---
 
-**Laccino Digital**
+**Laccino Digital Labs**
 
 *Strategy. Design. Technology.*
